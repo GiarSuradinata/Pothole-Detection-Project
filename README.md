@@ -197,6 +197,4 @@ Export model ke ONNX / TensorRT
 
 🟡 Proof of Concept – Pipeline Deployment Berfungsi End-to-End
 
-📜 Lisensi
 
-MIT / mengikuti lisensi dependensi terkait (SAM3, Ultralytics)
